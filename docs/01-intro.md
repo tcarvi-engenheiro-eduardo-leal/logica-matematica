@@ -1,0 +1,15 @@
+# Proposition Logic
+- AND
+  - p && q
+  - the conjunction of 𝑃 and 𝑄
+- OR
+  - p || q
+  - the disjunction of 𝑃 and 𝑄
+- NOT
+  - ~ p
+  - the negation of 𝑃
+- implication
+  - =>
+- equivalence
+  - <==>
+- statementss
